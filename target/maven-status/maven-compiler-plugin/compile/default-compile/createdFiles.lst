@@ -1,0 +1,8 @@
+com/bookstore/controller/MainController.class
+com/bookstore/dao/DatabaseConnection.class
+com/bookstore/dao/AuthorDAO.class
+com/bookstore/model/Author.class
+com/bookstore/dao/BookDAO.class
+com/bookstore/Main.class
+com/bookstore/controller/WelcomeController.class
+com/bookstore/model/Book.class

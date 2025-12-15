@@ -36,7 +36,7 @@ public class MainController {
     @FXML
     private TableColumn<Book, Double> colPrice;
     @FXML
-    private TableColumn<Book, String> colAuthor;
+    private TableColumn<Book, Author> colAuthor;
 
     private BookDAO bookDAO;
     private AuthorDAO authorDAO;

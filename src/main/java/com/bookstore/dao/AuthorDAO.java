@@ -55,7 +55,7 @@ public class AuthorDAO {
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
-        return null; // Not found
+        return null;
     }
 
     public boolean delete(int id) {

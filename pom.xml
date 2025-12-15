@@ -28,11 +28,11 @@
             <version>${javafx.version}</version>
         </dependency>
 
-        <!-- PostgreSQL Database -->
+        <!-- SQLite Database -->
         <dependency>
-            <groupId>org.postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <version>42.6.0</version>
+            <groupId>org.xerial</groupId>
+            <artifactId>sqlite-jdbc</artifactId>
+            <version>3.42.0.0</version>
         </dependency>
     </dependencies>
 
